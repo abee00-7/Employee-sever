@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "ca61",
+      "username": "Abhinav Narayanan",
+      "email": "abhinavnarayana800@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "cee2",
+      "username": "Graceson J",
+      "email": "gracesonj123@gamil.com",
+      "status": "active"
+    },
+    {
+      "id": "27f0",
+      "username": "sonia ",
+      "email": "sonia00@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "feca",
+      "username": "M S dhoni",
+      "email": "mahi7@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "def9",
+      "username": "Leo Messi",
+      "email": "messi10@gmail.com",
+      "status": "active"
+    }
+  ]
+}
